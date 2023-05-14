@@ -13,7 +13,7 @@
     <p>12/5/23 - 6h</p>
      <p>  13/5/23 - 9h30</p>
     <p>Quantos dias demorou:8 dias</p>
-    <p>Quantos horas: 39h30</p>
+    <p>Quantas horas: 39h30</p>
     <p>Data experada de entrega:16/5/23</p>
     <p>Data de entrega oficial: 13/05/23</p>
       <h1 align="center">Tecnologias Usadas:</h1>
